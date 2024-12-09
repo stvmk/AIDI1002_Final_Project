@@ -31,7 +31,7 @@ This project implements BERT for sentiment analysis using the IMDB dataset. The 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/google-research/bert
+   git clone https://github.com/stvmk/AIDI1002_Final_Project
    cd bert
    ```
 
