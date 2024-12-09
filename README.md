@@ -130,3 +130,10 @@ This project implements BERT for sentiment analysis using the IMDB dataset. The 
 
 - Devlin, J., Chang, M.-W., Lee, K., & Toutanova, K. (2019). BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. *arXiv:1810.04805v2*.
 - Gaur, M., Faldu, K., & Sheth, A. (2021). Semantics of the black-box: Can knowledge graphs help make deep learning systems more interpretable and explainable? *IEEE Internet Computing, 25(1), 51-59*.
+
+## Authors
+
+- Steve Kuruvilla - 200573392
+- Shrasth Kumar - 200566998
+
+---
